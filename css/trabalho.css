@@ -1,0 +1,193 @@
+body{
+    background-color: bisque;
+}
+
+.menu{
+     background-color: orangered;
+     color:black;
+     text-align: center;
+     display: flex; 
+     justify-content: center; /* justifica o conteudo dentro do botão */
+     margin-left: auto;
+     margin-right: auto;
+     word-spacing: 150px;
+     line-height: 15px; 
+     font-family:Arial, Helvetica, sans-serif;
+     font-size: 20px ;
+}
+
+.link{
+    text-decoration: none;
+    color: black;
+    display: inline-block;  
+}
+
+.link:hover{
+    color:blueviolet;
+}
+
+li{
+    display: inline;
+    height: 30px; 
+}
+
+a:hover{
+    color:rgb(0, 0, 0);
+}
+
+.imagem{
+    display: inline-block;
+    width: 80%;
+    height: 500px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto 
+}
+
+.surgiuNaruto{
+    display: flex; /* alinha um texto ao lado da imagem */
+    align-items: center;/*  centraliza o texto do lado da imagem */
+}
+
+.surgiu{
+    background-color: orangered;
+    color:black;
+    text-align: center;
+    display: flex; 
+    justify-content: center; /* justifica o conteudo dentro do botão */
+    margin-left: auto;
+    margin-right: auto; 
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 20px ;
+    line-height: 50px;
+}
+
+.imagem2{
+    display: inline-block;
+    width: 50%;
+    height: 400px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto 
+}
+
+   
+.jogosNaruto1{
+    display: flex;
+    align-items:center;
+}
+.jogosNaruto2{
+    display: flex;
+    align-items: center;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.imagem3{
+height: 500px;
+width: 40%;
+margin-left: 80px;
+margin-right: 80px;
+
+}
+
+.imagem4{
+height: 500px;
+width: 40%
+
+}
+
+
+.jogo{
+    background-color: orangered;
+    color:black;
+    text-align: center;
+    display: flex; 
+    justify-content: center; /* justifica o conteudo dentro do botão */
+    margin-left: auto;
+    margin-right: auto;
+    line-height: 50px; 
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 20px ;
+   
+}
+
+.filme{
+    background-color: orangered;
+    color:black;
+    text-align: center;
+    display: flex; 
+    justify-content: center; /* justifica o conteudo dentro do botão */
+    margin-left: auto;
+    margin-right: auto;
+    line-height: 50px; 
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 20px ;
+   
+
+}
+.filmeNaruto{
+    display: flex;
+    align-items:center ;
+}
+
+.imagem5{
+    height: 300px;
+    width: 80%;
+}
+p{
+    color:black;
+    text-align: center;
+    font-size: 18px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.videos{
+    background-color: orangered;
+    color:black;
+    text-align: center;
+    display: flex; 
+    justify-content: center; /* justifica o conteudo dentro do botão */
+    margin-left: auto;
+    margin-right: auto;
+    line-height: 50px; 
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+
+.videoEditar{
+    text-align: center;
+    display: flex; 
+    justify-content: center; /* justifica o conteudo dentro do botão */
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.botao{
+
+    background-color: orangered;
+    color:black;
+    border-radius: 5px;
+    text-decoration: none;
+    display: flex; 
+    justify-content: center; /* justifica o conteudo dentro do botão */
+    margin-left: auto;
+    margin-right: auto;
+    height: 50px;
+    width: 20%;
+    line-height: 50px; /* centraliza o texto entre cima e baixo */
+}
+.botao1{
+
+    background-color: orangered;
+    color:black;
+    border-radius: 20px;
+    text-decoration: none;
+    display: flex; 
+    justify-content: center; /* justifica o conteudo dentro do botão */
+    margin-left: auto;
+    margin-right: auto;
+    height: 20px;
+    width: 10%;
+    line-height: 20px; /* centraliza o texto entre cima e baixo */
+}
